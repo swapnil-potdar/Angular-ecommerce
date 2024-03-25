@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ecommerce-shop-a878d": {
+      "hosting": {
+        "angular-ecommerce": [
+          "ecommerce-shop-a878d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ecommerce-shop-a878d"
+  }
+}
